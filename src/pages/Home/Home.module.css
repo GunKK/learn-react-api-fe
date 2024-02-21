@@ -1,0 +1,26 @@
+* {
+    --primary-color: #539E31;
+}
+
+.homeContainer {
+
+}
+.homeWrap {
+    padding: 40px 0px;
+}
+.homeVideoSrc {
+    width: 100%;
+}
+.homepageSlogan {
+    padding: 40px 0px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+.homepageSlogan > h1 {
+    font-size: 60px;
+}
+
+.homepageSlogan > p {
+    font-size: 20px;
+}

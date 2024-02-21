@@ -1,0 +1,33 @@
+.pageNotFound {
+    display: grid;
+    place-items: center;
+}
+
+.heading {
+    font-size: 120px;
+    font-weight: 800;
+}
+
+.heading2 {
+    font-size: 40px;
+    font-weight: 800;
+    text-align: center;
+}
+
+.returnHome {
+    margin-top: 20px;
+    text-decoration: none;
+    border: 1px solid #539E31;
+    background-color: white;
+    color: #539E31;
+    padding: 14px 28px;
+    transition: all ease 0.3s;
+    font-size: 20px;
+    border-radius: 30px;
+    font-weight: 600;
+}
+.returnHome:hover {
+    opacity: 0.8;
+    background-color: #539E31;
+    color: white;
+}
